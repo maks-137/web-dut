@@ -1,0 +1,61 @@
+table {
+    table-layout: fixed;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+    margin-bottom: 15px;   
+}
+
+th {
+    background-color: #4287f5;
+    padding: 2px;
+    height: 25px;
+}
+
+td {
+    height: 100px;
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.pair{
+    border: 2px solid white; 
+    background-color: #f7a8b7;
+    padding: 3px;
+}
+
+
+main {
+	margin: 0 auto;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

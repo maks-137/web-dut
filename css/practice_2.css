@@ -1,0 +1,35 @@
+body {
+    background-color: #bcf2f5;
+    color: #75084c;
+}
+
+h2 {
+	font-size: 35px;
+	text-align: center;
+}
+
+form {
+    background-color: #eb9e7f;
+    width: 400px;
+    padding: 30px;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 15px auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 4px;
+}
+
+input, select {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    border: 1px solid white
+}
+
+input[type="submit"] {
+    background-color: #b8f77e;
+}

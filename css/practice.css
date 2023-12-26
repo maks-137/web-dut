@@ -1,0 +1,57 @@
+body {
+    font-family: Arial; 
+	color: white;
+	background-image: url('https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png'); 
+	font-size: 18px;
+  }
+  
+header {
+	background-color: #696563;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+  
+nav a {
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+}
+  
+h1 {
+	text-align: center;
+	color: white;
+	margin: 20px 80px;
+}
+  
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    text-align: center;
+}
+
+.work_list {
+	margin: 30px auto;
+	width: 70%;
+	padding: 10px;
+}
+
+.work {
+	text-align: center;
+	border: 1px solid white;
+	margin: 15px auto;
+	width: 35%;
+	padding: 10px;
+	border-radius: 30px;
+	background-color: #383635;
+}
+
+.work a {
+	text-decoration: none;
+	color: white;
+}
+
