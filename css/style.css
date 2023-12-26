@@ -11,6 +11,12 @@ header {
 	padding: 20px;
 	text-align: center;
 }
+
+h1 {
+	text-align: center;
+	color: white;
+	margin: 20px 80px;
+}
   
 .main {
 	text-align: center;
